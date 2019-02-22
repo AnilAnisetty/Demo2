@@ -1,0 +1,24 @@
+{
+  "id": "bd23e0d5-c5ff-488a-8435-d758a21fc97f",
+  "name": "Demo2",
+  "publisher": "Schouw",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.12929.0",
+  "application": "13.3.27233.0",
+  "target": "Extension",
+  "showMyCode": true,
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "al",
+      "request": "launch",
+      "name": "Publish",
+      "server": "http://schouw-ak280217.schouw.org:7049",
+      "serverInstance": "BC130",
+      "authentication": "Windows"
+    }
+  ]
+}
